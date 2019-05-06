@@ -12,7 +12,7 @@ echo "modificando rama";
     <center>
       <h1>
         Me quiero morir
-        hola
+        hola memem com estas
       </h1>
     </center>
     <form action="ejemplo.php" method="get">
